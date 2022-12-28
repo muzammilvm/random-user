@@ -1,0 +1,32 @@
+.main{
+    width: 100%;
+    height: 19cm;
+}
+.innerDiv{
+    height: 500px;
+    width: 500px;
+}
+.detaisl{
+    margin-top: 50px;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    margin-left: 180px;
+}
+.button{
+    height: 50px;
+    margin-top: 50px;
+    border: 0ch;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+
+.img1{
+    width: 150px;
+    height: 150px;
+}
+.body{
+    height: 100%;
+    width: 100%;
+}
